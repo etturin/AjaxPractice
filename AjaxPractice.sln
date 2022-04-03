@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AjaxPractice", "AjaxPractice\AjaxPractice.csproj", "{CE440358-92B8-46B5-91E5-ACE56C7D14F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AjaxPractice.Web", "AjaxPractice\AjaxPractice.Web.csproj", "{CE440358-92B8-46B5-91E5-ACE56C7D14F7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AjaxPractice.Data", "AjaxProject.Data\AjaxPractice.Data.csproj", "{603F6577-2EEC-47A1-9C11-7D337F4CC1A7}"
 EndProject
